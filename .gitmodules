@@ -1,0 +1,18 @@
+[submodule "01_introducao"]
+	path = 01_introducao
+	url = https://github.com/2023-PROG-IFC/01_introducao.git
+[submodule "02_variaveis_e_operadores"]
+	path = 02_variaveis_e_operadores
+	url = https://github.com/2023-PROG-IFC/02_variaveis_e_operadores.git
+[submodule "03_estruturas_de_decisao"]
+	path = 03_estruturas_de_decisao
+	url = https://github.com/2023-PROG-IFC/03_estruturas_de_decisao.git
+[submodule "04_arrays"]
+	path = 04_arrays
+	url = https://github.com/2023-PROG-IFC/04_arrays.git
+[submodule "05_estruturas_de_repeticao"]
+	path = 05_estruturas_de_repeticao
+	url = https://github.com/2023-PROG-IFC/05_estruturas_de_repeticao.git
+[submodule "06_funcoes"]
+	path = 06_funcoes
+	url = https://github.com/2023-PROG-IFC/06_funcoes.git
