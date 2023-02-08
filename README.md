@@ -1,2 +1,2 @@
-# Logica_de_Programacao
-Repositório de Lógica de Programação - 1INFOs [IFC Araquari]
+# Programação_I
+Repositório de Programação I - 1INFOs [IFC Araquari]
