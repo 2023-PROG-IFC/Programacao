@@ -1,2 +1,2 @@
-# Programação_I
-Repositório de Programação I - 1INFOs [IFC Araquari]
+# Programação
+Repositório de Programação - 1INFOs [IFC Araquari]
