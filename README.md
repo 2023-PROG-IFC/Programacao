@@ -6,12 +6,12 @@ Olá!
 Este é o repositório da disciplina de Programação!
 
 ## **SUMÁRIO**
-1. [Introdução](01_introducao/01_05_JS/README.md)
-   1. [Raciocínio Lógico](01_introducao/01_01_raciocionio_logico/README.md)
-   2. [Desafios - I](01_introducao/01_02_desafios/README.md)
-   3. [Desafios - II](01_introducao/01_03_desafios/README.md)
-   4. [Olá, Mundo](01_introducao/01_04_transicao/README.md)
-   5. [Olá, JS](01_introducao/01_05_JS/README.md)
+1. [Introdução](https://github.com/2023-PROG-IFC/01_introducao/)
+   1. [Raciocínio Lógico](https://github.com/2023-PROG-IFC/01_introducao/tree/master/01_01_raciocionio_logico)
+   2. [Desafios - I](https://github.com/2023-PROG-IFC/01_introducao/tree/master/01_02_desafios)
+   3. [Desafios - II](https://github.com/2023-PROG-IFC/01_introducao/tree/master/01_03_desafios)
+   4. [Olá, Mundo](https://github.com/2023-PROG-IFC/01_introducao/tree/master/01_04_transicao)
+   5. [Olá, JS]()
 2. [Variáveis e Operadores](02_variaveis_e_operadores/README.md)
 3. [Estruturas de Decisão](03_estruturas_de_decisao/README.md)
    1. [IF-Else]()
