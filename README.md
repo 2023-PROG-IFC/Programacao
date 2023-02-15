@@ -12,6 +12,7 @@ Este é o repositório da disciplina de Programação!
    3. [Desafios - II](https://github.com/2023-PROG-IFC/01_introducao/tree/master/01_03_desafios)
    4. [Olá, Mundo](https://github.com/2023-PROG-IFC/01_introducao/tree/master/01_04_transicao)
    5. [Olá, JS]()
+   6. [Certificação de Fundamentos de Programação](01_introducao/01_06_certificacao_fundamentos/README.md)
 2. [Variáveis e Operadores](02_variaveis_e_operadores/README.md)
 3. [Estruturas de Decisão](03_estruturas_de_decisao/README.md)
    1. [IF-Else]()
